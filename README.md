@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="pushes.gif" alt="contribution graph" width="783">
+  <img src="graph.gif" alt="contributions">
 </p>
